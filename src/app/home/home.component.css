@@ -1,0 +1,10 @@
+/* You can add the styling of the home page here */
+.heading {
+  margin-top: 48px;
+  text-align: center;
+}
+
+.links {
+  padding: 72px;
+  text-align: center;
+}
