@@ -1,5 +1,9 @@
 # muo-sample-app-angular-markdown
 
+## About 
+
+This is an example site made for a simple tutorial.
+
 ## To Run
 
 * Run `npm install` in the root directory to add the necessary npm packages to the project.
