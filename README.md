@@ -2,7 +2,7 @@
 
 ## About 
 
-This is an example site made for a simple tutorial.
+This is an example site made for the [Add Pages to Your Angular Website Using Markdown Files](https://www.makeuseof.com/angular-markdown-files-website/) tutorial.
 
 ## To Run
 
